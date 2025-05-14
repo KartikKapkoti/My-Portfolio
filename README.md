@@ -89,7 +89,5 @@ This project is licensed under the MIT License.
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Vite](https://vitejs.dev/)
 
-```
 
----
 
