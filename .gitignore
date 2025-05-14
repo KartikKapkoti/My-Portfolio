@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+
+# local assets 
+/src/assets/*.png
+/src/assets/*.jpg
+/src/assets/*.jpeg
+/src/assets/*.gif
+/src/assets/*.webp
+/src/assets/*.svg
+/src/assets/*.pdf
+
+
+ /src/assets/resume.pdf
