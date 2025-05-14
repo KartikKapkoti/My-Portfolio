@@ -33,12 +33,12 @@ This is my personal portfolio website built with React and Tailwind CSS. It show
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KartikKapkoti/your-portfolio-repo.git
+   git clone https://github.com/KartikKapkoti/My-Portfolio.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-portfolio-repo
+   cd My-Portfolio
    ```
 
 3. **Install dependencies:**
